@@ -1,0 +1,11 @@
+/* ||||||||||||||||||||| Add @import rule here |||||||||||||||||||| */
+
+* {
+  color: white;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "poppins";
+}
+
+/* ||||||||||||||||||||| Add CSS code under this line |||||||||||||||||||| */
